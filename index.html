@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<!--
+  Name: Rahel Worku
+  Date: 11/03/2022
+  Section: AC, Allison Ho
+
+  This is the index.html that creates the webpage. This includes buttons that will clicked by the
+  user and will show certain content on the page.
+-->
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+    <script src="index.js"></script>
+    <title>Song Recommendations!</title>
+  </head>
+  <body>
+    <header>
+      <h1>Kpop Recommendations</h1>
+      <img src="img/bear.jpg" alt="cartoon bear">
+    </header>
+    <main>
+      <section class="song-pick">
+        <h2>Try a new song you've never listened to</h2>
+        <p id="categories"></p>
+        <p>Choose what mood you want the song to put you in...</p>
+        <p id="available-options"></p>
+        <label><input type="radio" name="type" value="chill" checked>I'm just want to chill</label>
+        <label><input type="radio" name="type" value="cheer">I want to get hyped up</label>
+        <button>click!</button>
+      </section>
+      <section class="song-pick">
+        <h3>In that case:</h3>
+        <p>based on what you picked, you should give this song a try</p>
+        <section id="choice"></section>
+      </section>
+    </main>
+    <footer>Background image and icons from rawpixel.com and Flaticon.com</footer>
+  </body>
+</html>

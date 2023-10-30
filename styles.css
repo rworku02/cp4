@@ -1,0 +1,49 @@
+/*
+  Name: Rahel Worku
+  Date: 11/03/2022
+  Section: AC, Allison Ho
+
+  This is the styless.css to style the random song generator. This includes the color-coding of
+  the content to all have a similar look and feel.
+
+*/
+
+body {
+  font-family: 'Varela Round', sans-serif;
+  background-image: url("img/wallflower.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.song-pick, header, footer, body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.song-pick, header, footer {
+  background-color: rgba(233, 150, 122, 0.8);
+  border-radius: 15px 50px;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.song-pick {
+  display: flex;
+}
+
+.song-pick, header, h2, button {
+  text-align: center;
+}
+
+button {
+  align-self: center;
+}
+
+img {
+  width: 50px;
+}
+
+.song-pick > p {
+  font-size: 20px;
+}

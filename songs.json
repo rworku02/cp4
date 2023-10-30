@@ -1,0 +1,86 @@
+{
+  "chillOut" : [
+    {
+      "artist": "BTS",
+      "song": "coffee"
+    },
+    {
+      "artist": "Dean",
+      "song": "D(Half Moon)"
+    },
+    {
+      "artist": "Red Velvet",
+      "song": "Eyes Locked, Hands Locked"
+    },
+    {
+      "artist": "TXT",
+      "song": "20cm"
+    },
+    {
+      "artist": "WJSN",
+      "song": "Our Garden"
+    },
+    {
+      "artist": "BTS",
+      "song": "134340"
+    },
+    {
+      "artist": "Kai",
+      "song": "Peaches"
+    },
+    {
+      "artist": "Le Sserafim",
+      "song": "Impurities"
+    },
+    {
+      "artist": "Twice",
+      "song": "Doughnut"
+    },
+    {
+      "artist": "NCT Dream",
+      "song": "Teddy Bear"
+    }
+  ],
+  "cheerUp" : [
+    {
+      "artist": "Le Sserafim",
+      "song": "Antifragile"
+    },
+    {
+      "artist": "BTS",
+      "song": "Blackswan"
+    },
+    {
+      "artist": "TXT",
+      "song": "Blue Orangeade"
+    },
+    {
+      "artist": "Loona",
+      "song": "So What"
+    },
+    {
+      "artist": "Blackpink",
+      "song": "Lovesick Girls"
+    },
+    {
+      "artist": "EXO",
+      "song": "Love Me Right"
+    },
+    {
+      "artist": "fromis_9",
+      "song": "We Go"
+    },
+    {
+      "artist": "BTS",
+      "song": "So What"
+    },
+    {
+      "artist": "TXT",
+      "song": "No Rules"
+    },
+    {
+      "artist": "Twice",
+      "song": "Fancy"
+    }
+  ]
+}
